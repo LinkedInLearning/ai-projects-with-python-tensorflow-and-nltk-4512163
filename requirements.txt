@@ -1,1 +1,6 @@
 # Specify Python package requirements for your project here (e.g., Mako==1.1.1). If your project doesn't require these, you can leave this file unchanged or delete it.
+fvcore
+torch==2.1.1
+numpy==1.26.2
+fbgemm-gpu==0.5.0 --index-url https://download.pytorch.org/whl/cpu
+torchrec==0.5.0
