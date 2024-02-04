@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 from scipy.sparse import csr_matrix
 
 # Load the data
-ratings = pd.read_csv("https://s3-us-west-2.amazonaws.com/recommender-tutorial/ratings.csv")
-movies = pd.read_csv("https://s3-us-west-2.amazonaws.com/recommender-tutorial/movies.csv")
+ratings = pd.read_csv("ratings.csv")
+movies = pd.read_csv("movies.csv")
 
 # Create user-item matrix
 def create_matrix(df):
