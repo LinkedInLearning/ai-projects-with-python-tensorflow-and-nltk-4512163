@@ -2,7 +2,6 @@
 import numpy as np
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors  
-import matplotlib.pyplot as plt
 from scipy.sparse import csr_matrix
 
 # Load the data
