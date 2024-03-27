@@ -19,5 +19,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/ai-projects-with-python-tensorflow-and-nltk
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQFZFGMPvYFYUA/learning-public-crop_675_1200/0/1710784962366?e=2147483647&v=beta&t=BBO_195bWOPYhxpzY0nqiJCq_2L1YTfi9R29T_Pc95M
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEjbf3ej9HE6g/learning-public-crop_675_1200/0/1710956162347?e=2147483647&v=beta&t=7FF29GVLT3qIISMOJ1XYm56nj1H-v3oci5GSGvrCW8Q
 
